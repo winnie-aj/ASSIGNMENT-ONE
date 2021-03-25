@@ -1,0 +1,32 @@
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.exe
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.deps.json
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.runtimeconfig.json
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.runtimeconfig.dev.json
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.dll
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.pdb
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.csprojAssemblyReference.cache
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.BMIFrm.resources
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.csproj.GenerateResource.cache
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.AssemblyInfoInputs.cache
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.AssemblyInfo.cs
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.dll
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.pdb
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.genruntimeconfig.cache
+C:\Users\ariel\OneDrive\Documents\400L\400 ALPHA\CEN 414\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.Properties.Resources.resources
+C:\Users\Administrator\Documents\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.exe
+C:\Users\Administrator\Documents\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.deps.json
+C:\Users\Administrator\Documents\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.runtimeconfig.json
+C:\Users\Administrator\Documents\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.dll
+C:\Users\Administrator\Documents\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.pdb
+C:\Users\Administrator\Documents\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.BMIFrm.resources
+C:\Users\Administrator\Documents\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.Properties.Resources.resources
+C:\Users\Administrator\Documents\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.AssemblyInfo.cs
+C:\Users\Administrator\Documents\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.dll
+C:\Users\Administrator\Documents\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.pdb
+C:\Users\Administrator\Documents\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.genruntimeconfig.cache
