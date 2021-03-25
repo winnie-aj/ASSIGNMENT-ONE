@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\bin\Debug\STATISTICS.exe.config
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\bin\Debug\STATISTICS.exe
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\bin\Debug\STATISTICS.pdb
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\STATISTICS.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.Form1.resources
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\STATISTICS.Properties.Resources.resources
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\STATISTICS.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\STATISTICS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\STATISTICS.exe
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WindowsFormsApp_ModeMedianMean\WindowsFormsApp_ModeMedian\obj\Debug\STATISTICS.pdb
