@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WeekCalculation\bin\Debug\WeekCalculation.exe.config
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WeekCalculation\bin\Debug\WeekCalculation.exe
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WeekCalculation\bin\Debug\WeekCalculation.pdb
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WeekCalculation\obj\Debug\WEEK CALCULATION.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WeekCalculation\obj\Debug\WeekCalculation.Form1.resources
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WeekCalculation\obj\Debug\WeekCalculation.Properties.Resources.resources
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WeekCalculation\obj\Debug\WEEK CALCULATION.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WeekCalculation\obj\Debug\WEEK CALCULATION.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WeekCalculation\obj\Debug\WeekCalculation.exe
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WeekCalculation\obj\Debug\WeekCalculation.pdb

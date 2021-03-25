@@ -1,0 +1,30 @@
+C:\Users\judyh\source\repos\WeekCalculation\obj\Debug\WeekCalculation.csprojAssemblyReference.cache
+C:\Users\judyh\source\repos\WeekCalculation\obj\Debug\WeekCalculation.Form1.resources
+C:\Users\judyh\source\repos\WeekCalculation\obj\Debug\WeekCalculation.Properties.Resources.resources
+C:\Users\judyh\source\repos\WeekCalculation\obj\Debug\WeekCalculation.csproj.GenerateResource.cache
+C:\Users\judyh\source\repos\WeekCalculation\obj\Debug\WeekCalculation.csproj.CoreCompileInputs.cache
+C:\Users\judyh\source\repos\WeekCalculation\bin\Debug\WeekCalculation.exe.config
+C:\Users\judyh\source\repos\WeekCalculation\bin\Debug\WeekCalculation.exe
+C:\Users\judyh\source\repos\WeekCalculation\bin\Debug\WeekCalculation.pdb
+C:\Users\judyh\source\repos\WeekCalculation\obj\Debug\WeekCalculation.exe
+C:\Users\judyh\source\repos\WeekCalculation\obj\Debug\WeekCalculation.pdb
+C:\Users\ariel\OneDrive\Desktop\WeekCalculation\bin\Debug\WeekCalculation.exe.config
+C:\Users\ariel\OneDrive\Desktop\WeekCalculation\bin\Debug\WeekCalculation.exe
+C:\Users\ariel\OneDrive\Desktop\WeekCalculation\bin\Debug\WeekCalculation.pdb
+C:\Users\ariel\OneDrive\Desktop\WeekCalculation\obj\Debug\WeekCalculation.csprojAssemblyReference.cache
+C:\Users\ariel\OneDrive\Desktop\WeekCalculation\obj\Debug\WeekCalculation.Form1.resources
+C:\Users\ariel\OneDrive\Desktop\WeekCalculation\obj\Debug\WeekCalculation.Properties.Resources.resources
+C:\Users\ariel\OneDrive\Desktop\WeekCalculation\obj\Debug\WeekCalculation.csproj.GenerateResource.cache
+C:\Users\ariel\OneDrive\Desktop\WeekCalculation\obj\Debug\WeekCalculation.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Desktop\WeekCalculation\obj\Debug\WeekCalculation.exe
+C:\Users\ariel\OneDrive\Desktop\WeekCalculation\obj\Debug\WeekCalculation.pdb
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WeekCalculation\bin\Debug\WeekCalculation.exe.config
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WeekCalculation\bin\Debug\WeekCalculation.exe
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WeekCalculation\bin\Debug\WeekCalculation.pdb
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WeekCalculation\obj\Debug\WeekCalculation.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WeekCalculation\obj\Debug\WeekCalculation.Form1.resources
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WeekCalculation\obj\Debug\WeekCalculation.Properties.Resources.resources
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WeekCalculation\obj\Debug\WeekCalculation.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WeekCalculation\obj\Debug\WeekCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WeekCalculation\obj\Debug\WeekCalculation.exe
+C:\Users\Administrator\Documents\C# ASSIGNMENTS\WeekCalculation\obj\Debug\WeekCalculation.pdb
